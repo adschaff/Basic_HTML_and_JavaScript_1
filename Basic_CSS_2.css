@@ -1,0 +1,26 @@
+table {
+  border: 3px solid red;
+  background-color: yellow;
+  width: 500px;
+  text-align: center;
+}
+
+td: hover {
+  background-color: orange;
+  color: black;
+}
+
+tr, th {
+background-color: silver;
+color: cornsilk;
+}
+
+tr, td {
+  background-color: darkgreen;
+  color : white;
+}
+
+p {
+  font-color: grey;
+  font-size: 20px;
+}
